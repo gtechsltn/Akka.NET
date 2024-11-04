@@ -1,0 +1,6 @@
+@AkkaNetWebApi_HostAddress = http://localhost:5139
+
+GET {{AkkaNetWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
